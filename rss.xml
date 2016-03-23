@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[looking]]></title>
         <description><![CDATA[looking]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/looking/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 03:38:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 03:54:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/looking/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/186e5972-2fd7-464d-9561-67c6f806a766.jpg">]]></description>
+            <link>https://thegrid.ai/looking/mars/index.html</link>
+            <guid isPermaLink="false">3830628d-cb04-41c8-bb08-e4f2af5fc9a3</guid>
+            <pubDate>Wed, 23 Mar 2016 03:54:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86fa0217-8705-4017-8b53-33deddfa7a5b.png">]]></description>
-            <link>undefinedpluto/index.html</link>
+            <link>https://thegrid.ai/looking/pluto/index.html</link>
             <guid isPermaLink="false">56fa8bcc-d822-4060-8483-0bf672998ce4</guid>
             <pubDate>Wed, 23 Mar 2016 03:37:53 GMT</pubDate>
         </item>
