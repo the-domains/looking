@@ -17,8 +17,8 @@ keywords:
   - institute
   - haven
 description: 'Criscola Design is a visual design studio located in Connecticut designing for media, products, and non-profits.'
-datePublished: '2016-03-23T16:48:21.867Z'
-dateModified: '2016-03-23T16:48:07.949Z'
+datePublished: '2016-04-17T20:32:43.774Z'
+dateModified: '2016-03-23T16:48:29.639Z'
 author: []
 related: []
 app_links: []
