@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: sorts of things
-datePublished: '2016-04-21T16:43:33.831Z'
-dateModified: '2016-04-21T16:42:30.382Z'
+datePublished: '2016-04-21T16:51:52.779Z'
+dateModified: '2016-04-21T16:43:40.827Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-sorts-of-things.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-sorts-of-things.md
-published: true
 url: sorts-of-things/index.html
 _type: Article
 
