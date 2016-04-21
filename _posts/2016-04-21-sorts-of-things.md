@@ -5,11 +5,13 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: sorts of things (data
-datePublished: '2016-04-21T16:54:36.393Z'
-dateModified: '2016-04-21T16:54:20.398Z'
-title: ''
-author: []
+description: sorts of things (dataArt)
+datePublished: '2016-04-21T17:08:36.739Z'
+dateModified: '2016-04-21T17:08:04.496Z'
+title: selectionsort
+author:
+  - name: Mike Bostock
+    url: 'http://bl.ocks.org/mbostock'
 sourcePath: _posts/2016-04-21-sorts-of-things.md
 published: true
 authors: []
@@ -22,5 +24,5 @@ url: sorts-of-things/index.html
 _type: Article
 
 ---
-sorts of things (data
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5482ff28-97d5-460d-88b5-54d34a845949.png)
+sorts of things (dataArt)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c92c55f164dc19037c0d4ba880fecb60d620302d.png)
